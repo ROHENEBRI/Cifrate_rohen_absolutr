@@ -1,6 +1,6 @@
 [app]
 title = Cifrado Rohen Absoluto
-package.name = cifraterohen
+package.name = cifraterohenandnexus
 package.domain = org.rohen
 source.include_exts = py,png,jpg,kv,atlas
 source.dir = .
